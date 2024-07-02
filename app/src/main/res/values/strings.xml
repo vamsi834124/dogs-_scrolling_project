@@ -1,0 +1,16 @@
+<resources>
+    <string name="dn1">Koda</string>
+    <string name="dn2">Lola</string>
+    <string name="dn3">Frankie</string>
+    <string name="dn4">Nox</string>
+    <string name="dn5">Faye</string>
+    <string name="dn6">Bella</string>
+    <string name="dn7">Moana</string>
+    <string name="dn8">Tzeitel</string>
+    <string name="dn9">Leroy</string>
+    <string name="dn10">pinky</string>
+   <string name="yearsold">%d years old</string>
+    <string name="app_name">scrolling</string>
+
+
+</resources>
